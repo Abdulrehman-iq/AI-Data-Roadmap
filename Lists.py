@@ -99,9 +99,9 @@
 # print(thislist)
 }
 
-{ #copy list
-# thislist = ["apple", "banana", "cherry"]
-# # mylist=thislist.copy()
-# mylist=list(thislist)
-# print(mylist)
-}
+ copy list
+thislist = ["apple", "banana", "cherry"]
+# mylist=thislist.copy()
+mylist=list(thislist)
+print(mylist)
+
